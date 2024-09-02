@@ -47,8 +47,8 @@ class Dialog:
             messages=[
                 {'role': 'system', 'content': prompts.system_prompt},
                 *prompts.post_system_instructions,
-                {'role': 'assistant', 'content': context},
                 *history_messages,
+                {'role': 'assistant', 'content': context},
                 {'role': 'user', 'content': content}
             ]
         )
