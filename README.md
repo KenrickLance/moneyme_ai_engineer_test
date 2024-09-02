@@ -9,9 +9,9 @@
 
 The solution uses chromadb as the vector database and sqlite3 for managing conversations and retaining previous messages.
 
-The application relies on OpenAI's API for the language model. You'll need to specify your OpenAI API key in the .env file. If necessary, I can provide a temporary API key. The Docker image already includes this temporary API key.
+The application relies on OpenAI's API for the language model. You'll need to specify your OpenAI API key in the `.env` file. If necessary, I can provide a temporary API key. The Docker image already includes this temporary API key.
 
-Docker image URL: docker.io/lance092/moneyme:latest
+**Docker image URL**: docker.io/lance092/moneyme:latest
 
 ## Installation
 
