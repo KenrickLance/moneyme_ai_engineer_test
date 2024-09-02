@@ -1,0 +1,5 @@
+/vectordb
+sqlite.db
+__pycache__/
+.env
+env/
