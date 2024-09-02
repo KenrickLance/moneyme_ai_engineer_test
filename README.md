@@ -46,7 +46,7 @@ VECTORDB_COLLECTION_NAME = "MoneyMe"
 
 OPENAI_API_KEY = "openai_key_here"
 OPENAI_EMBEDDING_MODEL = "text-embedding-3-large"
-OPENAI_CHAT_MODEL = "gpt-4o-mini"
+OPENAI_CHAT_MODEL = "gpt-4o"
 ```
 
 ### CLI App
