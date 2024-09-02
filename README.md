@@ -112,4 +112,4 @@ docker tag lance092/moneyme moneyme
 docker run -d --name moneyme_container -p 8000:8000 moneyme
 ```
 
-The API will be available at: http://127.0.0.1:8000/chat
+The API will be available at: `http://127.0.0.1:8000/chat`
